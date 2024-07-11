@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+#header{
+    text-align: center;
+    color: blue;
+    margin-bottom: 50px;
+}
+
+.carry1
+{
+    display: block;
+    margin: 20px;
+}
